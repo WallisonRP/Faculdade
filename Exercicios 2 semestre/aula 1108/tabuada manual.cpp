@@ -1,4 +1,4 @@
-/* Tabuada manual, sem uso de de laços de repetição */
+/* Tabuada manual feita para treinar o uso do printf() e scanf(), sem uso de de laços de repetição */
 
 #include <iostream>
 

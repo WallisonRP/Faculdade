@@ -1,5 +1,3 @@
-//Nome: Wallison Franklin Pereira
-//R.A: 2840482111012
 
 
 #include <iostream>
